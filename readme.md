@@ -13,7 +13,7 @@
 # Monitoring: Nessus, OpenVAS, Splunk                                                                   #
 #########################################################################################################
 # Main Projects                                                                                         #
-# TorqueByte - Automotive management system (Python/PostgreSQL)                                         #
+# TorqueByte - Automotive management system (Python/PostgreSQL)                                         # 
 # Home Lab - Ansible configurations for my Proxmox lab                                                  #
 # Security Tools - Scripts for vulnerability assessment                                                 #
 #########################################################################################################
